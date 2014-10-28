@@ -7,9 +7,9 @@ permalink:        pretty
 relative_permalinks: true
 
 # Setup
-title:            James Wright
-tagline:          'iOS Developer Notebook'
-description:      'A collection of "that thing I showed you"''s, some "ohh yeah, I remember that"''s along with a few "hm, forgot about that bookmark"''s'
+title:            Dev Notes
+tagline:          'iOS Developer Notebook by James Wright'
+description:      'A collection of items resembling "that thing I read somewhere", some "oh that''s what it was", and a few "hm, forgot about that bookmark" odds and ends related to iOS development (mostly).'
 url:              http://james919.github.io
 baseurl:          /
 
