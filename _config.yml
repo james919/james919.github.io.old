@@ -9,7 +9,7 @@ relative_permalinks: true
 # Setup
 title:            Dev Notes
 tagline:          'iOS Developer Notebook by James Wright'
-description:      'A collection of items resembling "that thing I read somewhere", some "oh that''s what it was", and a few "hm, forgot about that bookmark" odds and ends related to iOS development (mostly).'
+description:      'A collection of odds and ends related to iOS development (mostly).'
 url:              http://james919.github.io
 baseurl:          /
 
