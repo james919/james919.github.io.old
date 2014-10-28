@@ -4,7 +4,7 @@ title: About
 ---
 
 <p class="message">
-  I love iOS development. I hate web development. In fact, all of the color drains from my face and my eye starts twitching at the idea of building a website, but this was pretty painless. Want something like this for yourself? [Joshua Lande](http://joshualande.com/jekyll-github-pages-poole/) has a nice description of how to get started.
+  I love iOS development. I hate web development. In fact, all of the color drains from my face and my eye starts twitching at the idea of building a website, but this was pretty painless. Want something like this for yourself? <a href="http://joshualande.com/jekyll-github-pages-poole/">Joshua Lande</a> has a nice description of how to get started.
 </p>
 
 ###The Blog
