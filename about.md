@@ -7,10 +7,10 @@ title: About
   I love iOS development. I hate web development. In fact, all of the color drains from my face and my eye starts twitching at the idea of building a website, but this was pretty painless. Want something like this for yourself? <a href="http://joshualande.com/jekyll-github-pages-poole/">Joshua Lande</a> has a nice description of how to get started.
 </p>
 
-###The Blog
+####The Blog
 I'm an iOS developer from Raleigh, NC. This is where I put things about development that I want to remember later.
 
-###The Author
+####The Author
 I've been an iOS developer for various startups since 2011. I cut my teeth on C and C++ a long time ago. Object Oriented Programming was a new-ish thing. I majored in Computer Science. The bubble burst. I majored in everything else. I decided I should graduate. I got an internship. I wrote myself into obsolescence with a C# utility. I majored in CSC again. I got a job developing mobile games. I joined a startup as the sole iOS dev. I took a wrong turn into SEO. I joined my current startup as the second iOS dev. I decided to start a blog.
 
 And here I am.

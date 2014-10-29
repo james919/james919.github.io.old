@@ -3,12 +3,12 @@ layout: post
 title: #ifdef in Swift
 ---
 
-#`#ifdef` in Swift
+# #ifdef in Swift
 
 Check for the presence of a flag for conditional compilation in Swift using `#if` `#else` `#endif`. 
 
 Set the symbol in the Xcode Project Build Settings under
- 
+
 `Swift Compiler - Custom Flags - Other Swift Flags`. 
 
 Usage:
