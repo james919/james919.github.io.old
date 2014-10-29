@@ -12,7 +12,7 @@ Set the symbol in the Xcode Project Build Settings under
 `Swift Compiler - Custom Flags - Other Swift Flags`. 
 
 Usage:
-For example, using `-D DEBUG`.
+For example, using `-D DEBUG`
 
 ```swift
 #if DEBUG
