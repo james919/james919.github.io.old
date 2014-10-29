@@ -1,9 +1,7 @@
 ---
 layout: post
-title: #ifdef in Swift
+title: Preview any plain text file using OS X QuickLook
 ---
-
-# Preview any plain text file using OS X QuickLook
 
 Use QuickLook to view any plain text, with or without an extension.
 

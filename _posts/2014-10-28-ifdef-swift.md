@@ -1,9 +1,7 @@
 ---
 layout: post
-title: #ifdef in Swift
+title: Swift Conditional Compilation
 ---
-
-# #ifdef in Swift
 
 Check for the presence of a flag for conditional compilation in Swift using `#if` `#else` `#endif`. 
 
