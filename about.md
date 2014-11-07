@@ -18,3 +18,9 @@ And here I am.
 More recently, I've been trying to wrap my head around functional programming since it's become a new-ish thing for mainstream languages. And by "it's become a new-ish thing for mainstream languages", I mean "Apple released Swift, which employs functional concepts". I admit my propensity for being an [Architecture Astronaut](http://www.joelonsoftware.com/articles/fog0000000018.html), but [since OOP seems to be losing favor](http://www.smashcompany.com/technology/object-oriented-programming-is-an-expensive-disaster-which-must-end), I don't feel quite so bad for not having read the entirety of the Gang of Four book. On the other hand, [MVVM is just finding its way to the iOS world](http://www.objc.io/issue-13/mvvm.html), so I'm trying to stay at least in the stratosphere with it.
 
 If you made it this far, thanks, and I hope you find something interesting here.
+
+[LinkedIn](http://www.linkedin.com/pub/james-wright/26/434/67b/)
+
+[Stack Overflow](http://stackoverflow.com/users/919790/ralfonso)
+
+[GitHub](https://github.com/james919)
