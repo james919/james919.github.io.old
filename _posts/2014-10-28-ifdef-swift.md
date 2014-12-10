@@ -20,5 +20,9 @@ For example, using `-D DEBUG`
 #end
 ```
 
+To set multiple symbols:
+For example, `DEBUG` and `STAGING` can both be set with `-D DEBUG -D LEGACY`.
+Both symbols must be prefaced with the `-D` option.
+
 Found [here](http://stackoverflow.com/a/24152730/919790) 
 
