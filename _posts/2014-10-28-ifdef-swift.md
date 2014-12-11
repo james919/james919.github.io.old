@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Swift Conditional Compilation
+permalink: swift-conditional-compilation
 ---
 
 Check for the presence of a flag for conditional compilation in Swift using `#if` `#else` `#endif`. 

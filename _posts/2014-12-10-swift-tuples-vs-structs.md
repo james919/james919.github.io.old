@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Swift Tuples vs Structs
+permalink: swift-tuples-vs-structs
 ---
 
 [Answer](http://stackoverflow.com/a/27386550/919790) to a StackOverflow [question](http://stackoverflow.com/q/27384151/919790) concerning the differences between tuples and structs.

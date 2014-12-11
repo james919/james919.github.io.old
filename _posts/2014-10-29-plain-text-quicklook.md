@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Preview any plain text file using OS X QuickLook
+permalink: plaintext-quicklook
 ---
 
 Use QuickLook to view any plain text, with or without an extension.

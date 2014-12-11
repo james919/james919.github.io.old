@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Native OS X Rest Client
+permalink: native-rest-client
 ---
 
 From the README: 

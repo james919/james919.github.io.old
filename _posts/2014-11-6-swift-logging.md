@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Swift Logging Library
+permalink: swift-logging
 ---
 
 From the README: 
